@@ -1,0 +1,9 @@
+# .gitignore Beispiel für RimWorld-Mods
+*.dll
+*.meta
+*.png
+*.exe
+*.zip
+Library/
+obj/
+bin/
