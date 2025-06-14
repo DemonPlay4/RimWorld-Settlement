@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Simulated Settlements</name>
+  <author>OpenAI Codex</author>
+  <supportedVersions>
+    <li>1.4</li>
+    <li>1.5</li>
+  </supportedVersions>
+  <description>A strategic text-based colony management system allowing players to found simulated settlements and manage them via menus.</description>
+  <packageId>openai.simulatedsettlements</packageId>
+</ModMetaData>

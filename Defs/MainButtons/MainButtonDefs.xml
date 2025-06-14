@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <MainButtonDef>
+    <defName>SimulatedSettlementsButton</defName>
+    <buttonVisible>true</buttonVisible>
+    <order>180</order>
+    <defaultHotKey>None</defaultHotKey>
+    <label>Simulated settlements</label>
+    <description>Manage your remote settlements.</description>
+    <tabWindowClass>SimulatedSettlements.Dialog_SettlementManager</tabWindowClass>
+  </MainButtonDef>
+</Defs>
